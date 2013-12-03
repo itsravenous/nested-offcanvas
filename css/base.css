@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	overflow: hidden;
+}
+
+html,
+body,
+.content {
+	min-height: 100%;
+}
